@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.logo-text {
+  font-size: 24px;
+  color: #f9faf8;
+}
+.logo-link {
+  font-size: 18px;
+  color: #e5e7eb;
+  justify-self: space-around;
+}
+
+.link-container {
+  display: flex;
+  gap: 18px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #1f2937;
+}
