@@ -170,3 +170,15 @@ body {
   border-radius: 10px;
   border: 2px solid #f9faf8;
 }
+footer {
+  padding: 8px;
+  background-color: #1f2937;
+  text-align: center;
+  color: #f9faf8;
+  margin: 0px;
+}
+
+.gfiami {
+  color: #f9faf8;
+  padding: 8px;
+}
